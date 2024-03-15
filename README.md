@@ -13,7 +13,6 @@
 # Main Skills #
 
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://www.learn-c.org"><img src="./assets/c-program-icon.svg" alt="c" height="100" title="C documentation"></a>
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img src="./assets/c-sharp-c.svg" alt="csharp" height="100" title="Csharp documentation"></a>
 
@@ -76,8 +75,8 @@
   </tr>
  <tr>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
       </td>
       </td>
             <td align="center" width="96">
@@ -89,8 +88,8 @@
       <br>Azure
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-      <br>Anaconda
+        <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
+      <br>Lua
     </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="opencv" />
