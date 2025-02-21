@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# 👋 Olá, eu sou o Arthur Amorelli
+# 👋 Olá, eu sou o Arthur
 
 [![Pesquisador FIOCRUZ](https://img.shields.io/badge/Pesquisador-FIOCRUZ-009688?style=flat&logo=microscope)](https://www.fiocruz.br)
 [![Estudante de CC](https://img.shields.io/badge/Bacharelado-Ciência%20da%20Computação%20(3º%20ano)-2196F3?style=flat&logo=graduation-cap)](https://www.example.edu)
