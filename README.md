@@ -11,7 +11,7 @@
 - 🧠 Desenvolvendo modelos de deep learning para aplicações em saúde pública na FIOCRUZ
 - 👁️ Especializando-se em Inteligência Artificial
 - ⚙️ Construindo pipelines reprodutíveis com PyTorch e TensorFlow
-- 📚 3º Entusiasta em Mandarim
+- 📚 Entusiasta em Mandarim
 
 ## 🛠️ Stack Técnica Principal
 **Machine Learning**  
@@ -44,7 +44,7 @@
 </p>
 
 ## 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/arthur-amorelli-978531259/))
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![Lattes](https://img.shields.io/badge/Lattes-002E6E?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/seu-id)
 
